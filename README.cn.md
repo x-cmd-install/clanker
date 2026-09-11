@@ -4,13 +4,25 @@
 
 autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc
 
-![clanker](https://repo.x-cmd.io/clanker.svg)
+![clanker](https://repo.x-cmd.io/clanker.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install clanker
 ```
+
+## 代码洞察
+
+合计: **205,212** 行代码（覆盖前 5 种语言、共 **640** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 204,713 | 11,468 | 23,257 | 636 |
+| Python | 234 | 6 | 82 | 1 |
+| Makefile | 166 | 26 | 40 | 1 |
+| Sh | 96 | 26 | 23 | 1 |
+| Svg | 3 | 0 | 0 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install clanker
 - **最新版本**: `v0.0.9` (2026-06-25)
 - **最近提交**: 2026-08-07
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-06-25T08:40:27Z
 
 ## 流行度
 
@@ -37,21 +48,19 @@ x install clanker
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 1 | 31 | 1 | 2 | 16 | 43 |
-| 360d | 2025-09-15 | 9 | 163 | 1 | 52 | 20 | 285 |
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 3 | 1 | 0 | 1 | 4 |
+| 90d | 2026-06-13 | 1 | 31 | 1 | 2 | 16 | 43 |
+| last180d | 2026-03-15 | 4 | 106 | 1 | 3 | 19 | 145 |
+| 360d | 2025-09-16 | 9 | 163 | 1 | 52 | 20 | 285 |
+| last720d | 2024-09-21 | 10 | 166 | 1 | 52 | 20 | 321 |
 
-## 代码规模
+## Release 资产
 
-合计: **205,212** 行代码（覆盖前 5 种语言、共 **640** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 204,713 | 11,468 | 23,257 | 636 |
-| Python | 234 | 6 | 82 | 1 |
-| Makefile | 166 | 26 | 40 | 1 |
-| Sh | 96 | 26 | 23 | 1 |
-| Svg | 3 | 0 | 0 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [clanker_v0.0.9_darwin_amd64.tar.gz](https://github.com/bgdnvk/clanker/releases/download/v0.0.9/clanker_v0.0.9_darwin_amd64.tar.gz) | 49.0 MiB | `native/darwin/x64` |
+| [clanker_v0.0.9_darwin_arm64.tar.gz](https://github.com/bgdnvk/clanker/releases/download/v0.0.9/clanker_v0.0.9_darwin_arm64.tar.gz) | 46.6 MiB | `native/darwin/arm64` |
 
 ## 改进这些数据
 
@@ -62,4 +71,4 @@ clanker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:33:33Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:01:07Z._
