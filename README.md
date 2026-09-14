@@ -38,7 +38,7 @@ Total: **205,212** lines of code across **640** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 380 · **Forks**: 17 · **Open issues**: 72 · **Contributors**: 6
+- **Stars**: 380 · **Forks**: 18 · **Open issues**: 72 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **205,212** lines of code across **640** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 3 | 1 | 0 | 1 | 4 |
-| 90d | 2026-06-15 | 1 | 31 | 1 | 2 | 16 | 43 |
-| last180d | 2026-03-17 | 4 | 106 | 1 | 3 | 19 | 145 |
-| 360d | 2025-09-18 | 9 | 163 | 1 | 52 | 20 | 285 |
-| last720d | 2024-09-23 | 10 | 166 | 1 | 52 | 20 | 321 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 3 | 1 | 0 | 1 | 4 |
+| 90d | 2026-06-16 | 1 | 29 | 1 | 2 | 16 | 38 |
+| last180d | 2026-03-18 | 4 | 106 | 1 | 3 | 19 | 143 |
+| 360d | 2025-09-19 | 9 | 163 | 1 | 52 | 20 | 285 |
+| last720d | 2024-09-24 | 10 | 166 | 1 | 52 | 20 | 321 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for clanker lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:32:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:47:06Z._
