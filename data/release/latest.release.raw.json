@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 51348304,
       "digest": "sha256:40825bb2d839495af9379a7e0f796a3f951ad5902a5a4006098d055fce5fc47c",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-06-25T08:39:50Z",
       "updated_at": "2026-06-25T08:40:24Z",
       "browser_download_url": "https://github.com/bgdnvk/clanker/releases/download/v0.0.9/clanker_v0.0.9_darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 48909074,
       "digest": "sha256:74054df2cd5a6d3b35ae1d147b953c8960f10cb8055bc24af5261a7f10b708cb",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-06-25T08:39:50Z",
       "updated_at": "2026-06-25T08:40:26Z",
       "browser_download_url": "https://github.com/bgdnvk/clanker/releases/download/v0.0.9/clanker_v0.0.9_darwin_arm64.tar.gz"
