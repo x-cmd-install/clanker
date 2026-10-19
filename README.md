@@ -33,7 +33,7 @@ Total: **205,212** lines of code across **640** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.9` (2026-06-25)
-- **Last commit**: 2026-08-07
+- **Last commit**: 2026-10-18
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **205,212** lines of code across **640** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 166 · **Open PRs**: 1 · **Closed issues**: 52 · **Open issues**: 20 · **Commits**: 321
+- **Releases**: 10 · **Merged PRs**: 167 · **Open PRs**: 1 · **Closed issues**: 52 · **Open issues**: 20 · **Commits**: 322
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 0 | 3 | 1 | 0 | 1 | 4 |
-| last180d | 2026-04-21 | 4 | 81 | 1 | 3 | 18 | 99 |
-| 360d | 2025-10-23 | 9 | 163 | 1 | 52 | 20 | 285 |
-| last720d | 2024-10-28 | 10 | 166 | 1 | 52 | 20 | 321 |
+| 30d | 2026-09-19 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-20 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-07-21 | 0 | 4 | 1 | 0 | 1 | 3 |
+| last180d | 2026-04-22 | 4 | 82 | 1 | 3 | 18 | 94 |
+| 360d | 2025-10-24 | 9 | 164 | 1 | 52 | 20 | 286 |
+| last720d | 2024-10-29 | 10 | 167 | 1 | 52 | 20 | 322 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for clanker lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:07:37Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:13:18Z._
